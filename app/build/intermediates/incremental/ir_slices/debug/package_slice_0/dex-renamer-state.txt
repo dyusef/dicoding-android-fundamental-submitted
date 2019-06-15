@@ -1,0 +1,4 @@
+#Thu Jun 13 03:49:34 ICT 2019
+base.0=C\:\\Users\\dyuse\\AndroidStudioProjects\\DicodingAndroidFundamental\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
